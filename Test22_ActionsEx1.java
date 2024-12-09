@@ -42,12 +42,6 @@ public class Test22_ActionsEx1 {
 		driver.findElement(By.xpath("//a[contains(text(),'Women Sarees')]")).click();
 		Thread.sleep(3000);
 		
-		
-		
-		
-		
-
-		
 //TC-07: Close the browser
 		driver.close();
 		
