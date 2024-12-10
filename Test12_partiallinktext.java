@@ -51,11 +51,6 @@ public class Test12_partiallinktext {
 		
 //Close the 0th Tab
 		driver.close();
-		
-
-		
-		
-		
 	}
 
 }
