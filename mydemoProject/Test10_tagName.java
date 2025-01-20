@@ -38,25 +38,8 @@ public class Test10_tagName {
 		{
 			System.out.println(f.get(i).getText());
 		}
-		
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-		
 //Close active Browser window
-		driver.close();
-		
-
-		
-		
-		
+		driver.close();	
 	}
 
 }
